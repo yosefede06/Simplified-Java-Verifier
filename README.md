@@ -2,9 +2,9 @@ yosefede06
 r301299
 
 
-*******************************
-*       File description      *
-*******************************
+
+##File description
+
 
     - CompileAlgorithm: CompileAlgorithm is an interface that requires its implementation to have a method called
     "compile" that takes a String input and returns a boolean.
