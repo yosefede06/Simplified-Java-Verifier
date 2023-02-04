@@ -73,7 +73,7 @@ using compileAlgorithm instances.
 
 ## Answers to questions
 
-- 6.1
+### 6.1
 
 In the README file, please report on how you addressed any errors in the s-Java code for this exercise.
 Additionally, explain your reasoning behind the approach you took.
@@ -85,7 +85,7 @@ The main objective of the program is to determine if the input code is LEGAL or 
 As such, statements like "int a = True" or "int a = 4" should be treated equally,
 as both are considered "legal" outputs.
 
-- 6.2
+### 6.2
 
 We have divided our code into smaller, independent units for better organization and understanding.
 
@@ -152,7 +152,7 @@ are not required to implement these features.
      so that the program knows which library to access to use these methods and save those in a new data structure
      which will be used on the logic of the compileAlgorithms.
 
-- 6.3
+### 6.3
 
 In your README file, please describe two of the main regular expressions you
 used in your code.
@@ -184,7 +184,7 @@ used in your code.
    that start with "//" and can contain any characters and white-space characters after it.
 
 
-- Tests
+### Tests
 
 - Test 1 : First test, we check good comments that start with // in the beggining of line and good
 declaration of the variable that finish with ;
