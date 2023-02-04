@@ -1,0 +1,22 @@
+//Complex test
+// Check
+// final int a  = 2;
+// int b = 100;
+
+void foo(int a, int b, boolean c){
+    //check inside comment
+    if (true) {
+    		return;
+    }
+    return;
+}
+
+void boo(){
+    int a = 5, b = 10;
+    boolean c = true;
+    if(true){
+        foo(a,b,c);
+    }
+    boo();
+    return;
+}

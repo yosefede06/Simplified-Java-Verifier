@@ -1,0 +1,16 @@
+void foo() {
+	int y;
+	if    (   y   )    {
+	}
+	return;
+}
+void boo() {
+	while    ( false | true)    {
+	}
+	return;
+}
+
+void doo(char a, char b) {
+    String test = "test";
+	return;
+}

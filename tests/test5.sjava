@@ -1,0 +1,17 @@
+int num1 = 5;
+int num2 = -3;
+int num3 = +001;
+double b = 5.21;
+double c = 2.;
+double e = .1;
+String s = "hi";
+String a = "i%#";
+boolean g = true;
+boolean h = 5.2;
+char my_cr = 'a';
+char g = '@';
+double ab, ba;
+int i1, i2 = 6;
+char c='Z', f;
+boolean cd, ef ,gh , ij = true, kl, mn = 5;
+String op = "hello" , qr = "goodbye";

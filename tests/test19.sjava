@@ -1,0 +1,8 @@
+void foo() {
+	if (true){
+        void doo() {
+            return;
+        }
+	}
+	return;
+}
